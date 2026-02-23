@@ -1,2 +1,2 @@
-# for-class-uno
-My first public respository. 
+# my-first-repo
+My first public respository.
